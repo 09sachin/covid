@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,QACF,CACA,OACE,WACF","file":"main.e3dfce9a.chunk.css","sourcesContent":["body {\n  margin: 0px;\n}\n.graph{\n  height: 50vh;\n}\n\n"]}
